@@ -1,0 +1,46 @@
+{
+    "games": [
+      {
+        "id": 1,
+        "name": "Rock Paper Scissor",
+        "description": "Game suit / batu gunting kertas online multiplayer</h5> <br/><br/> <h5>How To Play :</h5> <br/> <p>Pilih batu/gunting/kertas.</p> <br/> <p>Permainan akan berlangsung selama 3 ronde.</p>",
+        "thumbnailUrl": "https://image.winudf.com/v2/image/Y29tLmdtcy5yb2NrLnBhcGVyLmJhdHRsZS5mcmVlX2ljb25fMTUzNDgxMzYzN18wODA/icon.png?w=&fakeurl=1"
+      },
+      {
+        "id": 2,
+        "name": "Super Mario 64 (1996)",
+        "description": "<h5>Super Mario 64 ported to JavaScript and WebAssembly via Emscripten.</h5><br/><br/><h5>How To Play :</h5><br/><p>Click start game to play</p> <br/> <p>Arrow keys = Move</p> <p>W,A,S,D = Camera Control</p> <p>X key = Jump,Read Dialogue,Select Option</p> <p>C key = Grab,Throw,Punch</p> <p>Spacebar = Croach,Crawl,Ground Pound</p> <p>Enter = Pause,Start</p>",
+        "thumbnailUrl": "https://archive.org/download/sm64_3ds/Cover%20Art/mario-64---button-1559263987447.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Minecraft Web",
+        "description": "<h5>Play minecraft on your browser !</h5>",
+        "thumbnailUrl": "https://www.meme-arsenal.com/memes/661181117ea3772dc3ecf942242d39cf.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Pacman 3D",
+        "description": "Nostalgic pacman game. But in 3D ! <br/><br/> <h5>How To Play :</h5> <br/>        <p>W,A,S,D to move</p>",
+        "thumbnailUrl": "https://i.pinimg.com/736x/3c/47/40/3c47401e320d1d1a39d9b8b4da6b846c.jpg"
+      },
+      {
+        "id": 5,
+        "name": "T-Rex Run 3D", 
+        "description": "<h5>3D version of No Internet T-Rex game using THREE.js</h5> <br/><br/> <h5>How To Play :</h5> <br/> <p>Arrow Left and Right to move</p> <p>Spacebar to pause</p>",
+        "thumbnailUrl": "https://play-lh.googleusercontent.com/UiHd6eDebYZhmOdsn3JhN7bes7goHtWzIRNg7Yc8g5KPKjF1HpBPuG95NXd02DlyrZ4"
+      },
+      {
+        "id": 6,
+        "name": "Flappy Bird",
+        "description": "<h5>The famous flappy bird game in your browser</h5",
+        "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfQ9WDKqitwZSPtd9QWn4yjh8mTg8CLevBig&usqp=CAU"
+      },
+      {
+        "id": 7,
+        "name": "Save The Queen",
+        "description": "<h5>This is an english learning game.</h5> <br/><br/> <h5>How To Play :</h5> <br/> <p>Save the queen by choosing the correct answer of each question</p>`",
+        "thumbnailUrl": "https://dl.memuplay.com/new_market/img/com.UnlockGames.BecomeaQueennn.icon.2022-06-07-21-02-56.png"
+      }
+    ]
+}
